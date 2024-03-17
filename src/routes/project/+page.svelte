@@ -41,6 +41,7 @@
         border: 1px solid #ddd;
         padding: 10px;
         box-shadow: 0 0 10px #eee;
+        background-color: rgb(250, 240, 255);
     }
     
     .link {

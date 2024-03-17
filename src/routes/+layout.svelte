@@ -17,13 +17,8 @@
 <script>
     const nav = [
         {
-         title: "Обо мне",
+         title: "Биография",
          href: "/about",
-         isShow: true,
-        },
-        {
-         title: "Блог",
-         href: "/blog",
          isShow: true,
         },
         {
@@ -35,7 +30,7 @@
          title: "Контакты",
          href: "/contacts",
          isShow: true,
-        },
+        }
     ];
 </script>
 <style>

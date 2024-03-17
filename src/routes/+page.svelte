@@ -8,12 +8,12 @@
             <div class="container info-container">
                 <div class="info-text">
                     <h1>
-                        <p class="animate-text-1">Lorem ipsum dolor sit,</p>
-                        <p class="text-2">Lorem ipsum dolor sit amet.</p>
+                        <p class="animate-text-1">Сайт обо мне</p>
+                        <p class="text-2">Создатель сайта: Шаров Пётр Игоревич</p>
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto aut,cupiditate doloresducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
+                    Данный сайт является небольшой биографией обо мне с портфолио работ.
                 </h2>
             </div>
         </div>
@@ -54,7 +54,7 @@
         text-align: left;
         line-height: 130%;
         width: fit-content;
-        font-weight: 800;
+        font-weight: 750;
         letter-spacing: -0.03em;
     }
 
@@ -65,9 +65,9 @@
     }
     
     .background-div {
-        background-color: rgb(202, 202, 202);
+        background-color: rgb(250, 240, 255);
         width: 100%;
-        height: 56vh;
-        margin: -160px auto;
+        height: 5vh;
+        margin: -60px auto;
     }
 </style>
