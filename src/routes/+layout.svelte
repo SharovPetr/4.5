@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-container">
-        <a href="/" class="nav-logo" title="Back to Homepage">Шаров Пётр</a>
+        <a href="/" class="nav-logo" title="Back to Homepage">Главная</a>
         <div class="nav-links">
             {#each nav as link}
             <a href={link.href} class="link">{link.title}</a>
@@ -27,7 +27,7 @@
          isShow: true,
         },
         {
-         title: "Проект",
+         title: "Проекты",
          href: "/project",
          isShow: true,
         },
@@ -35,11 +35,6 @@
          title: "Контакты",
          href: "/contacts",
          isShow: true,
-        },
-        {
-         title: "temp",
-         href: "/temp",
-         isShow: false,
         },
     ];
 </script>

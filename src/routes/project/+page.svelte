@@ -1,5 +1,5 @@
 <svelte:head>
-<title>Портфолио</title>
+<title>Проекты</title>
 </svelte:head>
 
 <div class="container">
@@ -11,7 +11,7 @@
 				<p>{page.body}</p>
 				<p class="readmore">
 					<a class="link" href={`/project/apps/${page.id}`}>
-					Читать далее
+					Открыть
 					</a>
 				</p>
 			</div>
