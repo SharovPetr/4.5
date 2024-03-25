@@ -8,13 +8,11 @@
             <div class="container info-container">
                 <div class="info-text">
                     <h1>
-                        <p class="animate-text-1">Сайт обо мне</p>
+                        <p class="animate-text-1">Кинотеатр "Буревестник"</p>
                         <p class="text-2">Создатель сайта: Шаров Пётр Игоревич</p>
                     </h1>
                 </div>
-                <h2 class="subtitle">
-                    Данный сайт является небольшой биографией обо мне с портфолио работ.
-                </h2>
+                <h2 class="subtitle">Сайт кинотеатра "Буревестник"</h2>
             </div>
         </div>
     </div>
