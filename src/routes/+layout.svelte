@@ -17,13 +17,8 @@
 <script>
     const nav = [
         {
-         title: "Биография",
-         href: "/about",
-         isShow: true,
-        },
-        {
-         title: "Проекты",
-         href: "/project",
+         title: "Фильмы",
+         href: "/films",
          isShow: true,
         },
         {
