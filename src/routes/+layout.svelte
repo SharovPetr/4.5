@@ -25,7 +25,7 @@
          title: "Контакты",
          href: "/contacts",
          isShow: true,
-        }
+        },
     ];
 </script>
 <style>
